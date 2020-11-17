@@ -1,7 +1,5 @@
 package homeWork.lesson5;
 
-import static java.util.Arrays.fill;
-
 public class individual {
 
 
